@@ -1,0 +1,6 @@
+{
+        "LogPath": "Logtardis.log",
+        "FakeSuccessPage": "rickroll.html",
+        "enableFakeSuccessPage": true,
+        "port": 8080
+}
